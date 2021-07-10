@@ -27,6 +27,7 @@ person = anodict.dict_to_class({
     "age": 23
 }, Person)
 
+print("type:", type(person))
 print("name:", person.name)
 print("age:", person.age)
 ```
@@ -34,6 +35,7 @@ print("age:", person.age)
 will give:
 
 ```
+type: <class '__main__.Person'>
 name: bob
 age: 23
 ```
