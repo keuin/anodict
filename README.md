@@ -1,5 +1,7 @@
 # anodict: annotated dict
 
+[![Pyversions](https://img.shields.io/pypi/pyversions/anodict.svg?style=flat-square)](https://pypi.org/project/anodict/)
+
 Convert a `dict` to an annotated object.
 
 # Usage
